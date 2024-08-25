@@ -1,5 +1,4 @@
 # mirketgiller
-## Live ---> https://mirketgiller-unofficial.netlify.app/
 
 ## Project setup
 ```

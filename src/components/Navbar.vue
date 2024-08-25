@@ -103,8 +103,8 @@ nav {
     top: 100px;
     z-index: 5;
     right: 0;
-    width: 80%;
-    height: 60vh;
+    width: 100%;
+    height: 100%;
     padding: 60px 60px;
     border-radius: 12px 0 0 12px;
     gap: 60px;
@@ -133,7 +133,7 @@ nav {
   }
   .navActive {
     width: 100%;
-    height: 86vh;
+    height: 100%;
   }
 }
 @media (max-width: 326px) {
@@ -143,7 +143,7 @@ nav {
   }
   .navActive {
     width: 100%;
-    height: 86vh;
+    height: 100vh;
   }
   .navActive a.router-link-exact-active{
     font-size: 16px;

@@ -1,7 +1,6 @@
 # mirketgiller
 
-## Live State ---> https://mirketgiller-unofficial.netlify.app/
-
+## Live State ---> https://mirketgiller-unofficial-vue.netlify.app
 ## Project setup
 ```
 npm install
